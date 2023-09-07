@@ -1,4 +1,3 @@
 # github
 my first project
-hiiiiii
-hello
+im vanila
